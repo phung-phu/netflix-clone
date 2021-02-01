@@ -1,5 +1,5 @@
 # Project Description
-## [Netflix Clone web app](https://netflix-clone-b2ed6.web.app)
+## [Netflix demo web app](https://netflix-clone-b2ed6.web.app)
 
 This web app attempts to replicate the front-end web page of [Netflix](https://www.netflix.com/). The web app allows users to scroll through categorized movies and shows. 
 
